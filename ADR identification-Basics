@@ -1,0 +1,35 @@
+
+# ADR Identification Basics
+
+## Objective
+To identify potential Adverse Drug Reactions (ADRs) by analyzing patient symptoms, medication history, and timelines.
+
+## Introduction
+An Adverse Drug Reaction (ADR) is an unwanted or harmful response to a medicine taken at normal doses.
+
+## Case Study 1: Suspected Antibiotic Reaction
+- **Patient:** Adult patient
+- **Medication:** Amoxicillin
+- **Symptoms:** Skin rash and itching
+- **Timeline:** Symptoms appeared after starting the medication
+- **Suspected ADR:** Possible allergic reaction to amoxicillin
+- **Action:** Seek medical assessment and report the suspected reaction.
+
+## Case Study 2: Suspected Painkiller Reaction
+- **Patient:** Adult patient
+- **Medication:** Ibuprofen
+- **Symptoms:** Stomach pain and irritation
+- **Timeline:** Symptoms developed after taking the medication
+- **Suspected ADR:** Possible gastrointestinal adverse effect
+- **Action:** Seek medical advice if symptoms occur or persist.
+
+## ADR Identification Process
+1. Review the patient's symptoms.
+2. Check the medication history.
+3. Identify when the medicine was started.
+4. Compare the timing of medication use and symptoms.
+5. Consider other possible causes.
+6. Document and report suspected ADRs.
+
+## Conclusion
+Careful assessment of symptoms, medication history, and timelines can help identify suspected adverse drug reactions. These cases are educational examples and do not establish a confirmed diagnosis.
